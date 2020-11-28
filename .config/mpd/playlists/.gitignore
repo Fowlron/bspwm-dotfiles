@@ -1,0 +1,4 @@
+# Ignore everything in this directory except this file
+# This is required to add empty directories to git
+# MPD requires this directory to exist, even if empty.
+!.gitignore
